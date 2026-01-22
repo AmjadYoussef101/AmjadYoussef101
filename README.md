@@ -28,12 +28,5 @@
 - Clean Architecture & Design Patterns
 - Cloud-native applications with Azure
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api? username=AmjadYoussef101&show_icons=true&theme=radical)
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
 ---
 💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
